@@ -312,15 +312,5 @@
 
 /* === Missing Bootstrap - END === */
 
-/* === Add Bullet Point back for content use === START */
-.module ul {
-    padding: revert;
-}
-.module li {
-    list-style-type: initial;
-}
-/* === Add Bullet Point back for content use === END */
-
-
 /* ===  6.8 Site Fixes - END  === */
 /*===============================================*/
