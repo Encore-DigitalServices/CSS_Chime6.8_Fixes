@@ -312,5 +312,15 @@
 
 /* === Missing Bootstrap - END === */
 
+/* === Submenu - START === */
+
+/* Fills in weird gap at the bottom of the page*/
+.submenu .module .wrapper.scrollable {
+    position: relative;
+    height: 100% !important;
+}
+
+/* === Submenu - END === */
+
 /* ===  6.8 Site Fixes - END  === */
 /*===============================================*/
